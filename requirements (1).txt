@@ -5,3 +5,4 @@ python-dotenv
 scikit-learn
 plotly
 python-dotenv==1.0.1
+python-dotenv
