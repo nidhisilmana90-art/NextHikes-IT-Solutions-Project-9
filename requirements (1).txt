@@ -7,3 +7,4 @@ plotly
 python-dotenv==1.0.1
 python-dotenv
 python-dotenv==1.2.1
+python-dotenv
